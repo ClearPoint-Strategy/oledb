@@ -1,4 +1,4 @@
-const edge = require('electron-edge');
+const edge = require('electron-edge-js');
 const data = edge.func(__dirname + '/Data.cs');
 
 const COMMAND_TYPES = {
